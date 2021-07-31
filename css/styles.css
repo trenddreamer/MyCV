@@ -27,6 +27,25 @@ h3 {
   position: relative;
 }
 
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-img1 {
+  width: 25%;
+  float:left;
+  padding-right: 30px;
+}
+.skill-img2 {
+  width: 25%;
+  float:left;
+  padding-right: 30px;
+}
+}
+
 .middle-container {
 }
 .bottom-container {
