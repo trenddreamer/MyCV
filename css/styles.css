@@ -41,8 +41,8 @@ h3 {
 }
 .skill-img2 {
   width: 25%;
-  float:left;
-  padding-right: 30px;
+  float:right;
+  padding-left: 30px;
 }
 
 
@@ -50,19 +50,21 @@ h3 {
 }
 .bottom-container {
 }
-
+.profile-pic{
+  width:15%;
+}
 .circular {
   border-radius: 100%;
 }
 
 .bottom-cloud {
   position: absolute;
-  right: 600px;
+  right: 300px;
   top: 50px;
 }
 .top-cloud {
   position: absolute;
-  left: 600px;
+  left: 300px;
   bottom: 300px;
 }
 
