@@ -1,5 +1,6 @@
 /*************************************TAG SELECTORS*********************************************/
 body {
+  color: #40514e;
   margin: 0;
   text-align: center;
   font-family: "Merriweather", serif;
@@ -14,6 +15,7 @@ h2 {
   font-size: 2rem;
   font-family: "Montserrat", sans-serif;
   font-weight: normal;
+  padding-bottom: 10px;
 }
 
 h3 {
@@ -27,7 +29,7 @@ h3 {
   position: relative;
 }
 
-.skill-row{
+.skill-row {
   width: 50%;
   margin: 100px auto;
   text-align: left;
@@ -36,22 +38,26 @@ h3 {
 
 .skill-img1 {
   width: 25%;
-  float:left;
+  float: left;
   padding-right: 30px;
 }
 .skill-img2 {
   width: 25%;
-  float:right;
+  float: right;
   padding-left: 30px;
 }
-
+.intro {
+  width: 30%;
+  margin: auto;
+}
 
 .middle-container {
+  margin: 100px 0;
 }
 .bottom-container {
 }
-.profile-pic{
-  width:15%;
+.profile-pic {
+  width: 15%;
 }
 .circular {
   border-radius: 100%;
